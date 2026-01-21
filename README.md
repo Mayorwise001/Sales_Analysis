@@ -1,9 +1,6 @@
-# Sales_Analysis
-This project analyzes sales data to uncover revenue trends, identify top customers, and evaluate product performance. The goal is to demonstrate practical SQL skills used in real business reporting and dashboards.  The analysis simulates real-world scenarios faced by data analysts when supporting management decision-making.
+📊 Sales Analysis Project | MySQL & Power BI
+🔎 Project Summary
 
-### 📁 Data
-The `data/` folder contains raw sales data used for this project.
-- `sales_raw.csv` – Source data in CSV format
-- `sales_raw.sql` – SQL insert statements for database loading
+This project demonstrates an end-to-end data analysis and business intelligence workflow using MySQL and Power BI. The goal was to transform raw sales transaction data into actionable insights by applying structured SQL logic and building an interactive dashboard for business stakeholders.
 
-No transformations were applied at this stage.
+The project emphasizes clean data modeling, reusable SQL views, and professional BI practices commonly used in real-world analytics roles.
